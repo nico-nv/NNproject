@@ -1,5 +1,5 @@
 def try_me():
-    print("Chile")
+    return "Chile"
 
 #from NNproject.lib import try_me
 #try_me
